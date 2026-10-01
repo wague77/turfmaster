@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/calculatrice/layout,_N_T_/calculatrice/page,_N_T_/calculatrice"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/e0e544a2f65b11b0130c8595ce84bfe1a6b52879f636b7f4cbf98740e7daa988/$/calculatrice",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/calculatrice/page"
+    },
+    "isFallback": false
+  }
+}
